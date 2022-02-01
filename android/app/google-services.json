@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995245099675",
+    "project_id": "canteenedu",
+    "storage_bucket": "canteenedu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995245099675:android:b42d5c8e6443f4037c943e",
+        "android_client_info": {
+          "package_name": "com.example.login_signup_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995245099675-67ecos7cquffvjjdp1r3kbrncfunrml0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_signup_screen",
+            "certificate_hash": "8678f29de1a4362d33e7be90c50b5bc1f63df5d8"
+          }
+        },
+        {
+          "client_id": "995245099675-1sk9beunhabvc6nbi6jugsvo5l2qiuql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXMtNX2IT8CyAg6b7lwQgIEbUOJQ-n2j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995245099675-1sk9beunhabvc6nbi6jugsvo5l2qiuql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
